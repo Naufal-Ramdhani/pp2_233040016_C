@@ -175,7 +175,6 @@ public class PendaftaranNasabahBank extends JFrame {
                 txtOutput.setText("");
             }
         });
-
         // Exit Program 
         exitMenuItem.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
